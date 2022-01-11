@@ -1,7 +1,7 @@
-<h1 align="center"><b>❤ Sophia v3 ❤</b></h1>
+<h1 align="center"><b>❤ kirishimeow v3 ❤</b></h1>
 
 
-<p align="center"><a href="https://t.me/SophiaSupport_Official"><img src="https://telegra.ph/file/f6afa44d010598c379503.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/AnimeandWaifuForAll"><img src="https://te.legra.ph/file/4c95fa3c81b6465180124.jpg" width="400"></a></p>
 <p align="center">
   <h4 align="center"><b>A Powerful, Smart And Simple Group Manager <br> ... Written with  Pyrogram and Telethon...</b></h4>  
 
@@ -22,7 +22,7 @@
 
 
 
-## Avaiilable on Telegram as [@SophiaSLBot](https://t.me/sophiaslbot)
+## Avaiilable on Telegram as [@kirishimeow_bot](https://t.me/kirishimeow_bot)
 
 ### Video Tutorial:
 Complete guide on deploying @SophiaSLBot's clone on Heroku.
@@ -37,8 +37,8 @@ Complete guide on deploying @SophiaSLBot's clone on Heroku.
 
 
 ## Join my Updates Channel & Support Chats
-<a href="https://t.me/SophiaSUPPort_official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/SophiaUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/AnimeandWaifuForAll"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/kirishimeownews"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 
