@@ -18,17 +18,15 @@
 </p>
 
 
- <b> ⭐️ Thanks to everyone who starred Sophia, That is the greatest pleasure we have ! </b> 
+ <b> ⭐️ Thanks to everyone who starred kirishimeow , I'm an edited bot of sophia bot, ! </b> 
 
 
 
 ## Avaiilable on Telegram as [@kirishimeow_bot](https://t.me/kirishimeow_bot)
 
-### Video Tutorial:
-Complete guide on deploying @SophiaSLBot's clone on Heroku.
 
-🙋‍♂️ Video by [Dihan Randila](https://youtu.be/Yyw2TfwQTSg) ☆
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/Yyw2TfwQTSg)
+### Kirishimeow yt channel (https://youtube.com/channel/UC7Um7yijusx1d_abPIzlG7g)
+
 
 ### Deploy To Heroku</h4>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dihanofficial/Sophiabot)
@@ -206,12 +204,7 @@ For starters click on this button
 
 
 
-#### Contributors
-- [Dihan Randila](https://github.com/dihanofficial): Dev / Owner
-- [InukaAsith](https://github.com/InukaAsith): Dev 
-- [Rodolphus Lestrang](https://github.com/PercyOfficial)
-- [Damantha Jasinghe](https://github.com/Damantha126)
-- [Denuwan](https://github.com/ImDenuwan)
+
 
 ## Special Credits
 
